@@ -42,7 +42,7 @@ Exception Handling
 
 Quiz-Application/
 
-│
+
 ├── main.py                # Main menu and program execution
 
 ├── questions.py           # Stores quiz questions
@@ -66,13 +66,19 @@ Quiz-Application/
 🚀 How to Run
 
 1. Clone the Repository
+   
 git clone https://github.com/your-username/Quiz-Application.git
-2. Navigate to the Project Folder
+
+3. Navigate to the Project Folder
+   
 cd Quiz-Application
-3. Run the Application
+
+5. Run the Application
+
 python main.py
 
 📋 Menu Options
+
 ========== QUIZ APPLICATION ==========
 
 1. Start Quiz
@@ -140,6 +146,7 @@ Colorful terminal interface
 Question categories
 
 👩‍💻 Author
+
 Sangireddy Ujwala
 
 GitHub: https://github.com/ujwala-1234
