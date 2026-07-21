@@ -5,38 +5,62 @@ A Python-based Quiz Application developed to demonstrate core Python programming
 📌 Features
 
 ▶️ Start Quiz
+
 📖 View Questions
+
 ✍️ Answer Multiple-Choice Questions
+
 🏆 Check Score
+
 📊 View Percentage
+
 💾 Save Results to a Text File
+
 ❌ Exit Application
 
 🛠️ Technologies Used
 
 Python 3
+
 Functions
+
 Modules
+
 Lists
+
 Dictionaries
+
 Loops
+
 Conditional Statements
+
 File Handling
+
 Exception Handling
 
 📂 Project Structure
 
 Quiz-Application/
+
 │
 ├── main.py                # Main menu and program execution
+
 ├── questions.py           # Stores quiz questions
+
 ├── start_quiz.py          # Starts the quiz
+
 ├── view_questions.py      # Displays all quiz questions
+
 ├── answer_quiz.py         # Processes user answers and calculates score
+
 ├── check_score.py         # Displays the current score
+
 ├── view_percentage.py     # Calculates and displays percentage
+
 ├── save_result.py         # Saves results to result.txt
+
 ├── result.txt             # Stores quiz results
+
 └── README.md              # Project documentation
 
 🚀 How to Run
