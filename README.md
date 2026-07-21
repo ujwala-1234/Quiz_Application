@@ -1,7 +1,9 @@
 📝 Quiz Application
+
 A Python-based Quiz Application developed to demonstrate core Python programming concepts through an interactive multiple-choice quiz system. The application allows users to answer quiz questions, calculate their score and percentage, and save their results for future reference.
 
 📌 Features
+
 ▶️ Start Quiz
 📖 View Questions
 ✍️ Answer Multiple-Choice Questions
@@ -11,6 +13,7 @@ A Python-based Quiz Application developed to demonstrate core Python programming
 ❌ Exit Application
 
 🛠️ Technologies Used
+
 Python 3
 Functions
 Modules
@@ -22,6 +25,7 @@ File Handling
 Exception Handling
 
 📂 Project Structure
+
 Quiz-Application/
 │
 ├── main.py                # Main menu and program execution
@@ -36,6 +40,7 @@ Quiz-Application/
 └── README.md              # Project documentation
 
 🚀 How to Run
+
 1. Clone the Repository
 git clone https://github.com/your-username/Quiz-Application.git
 2. Navigate to the Project Folder
@@ -56,6 +61,7 @@ python main.py
 Choose the desired option by entering the corresponding number.
 
 📸 Sample Output
+
 Welcome to the Quiz Application
 
 1. Start Quiz
@@ -69,6 +75,7 @@ Welcome to the Quiz Application
 Enter your choice: 3
 
 Question 1:
+
 What is the capital of India?
 
 A. Mumbai
@@ -81,7 +88,9 @@ Enter your answer: B
 Correct!
 
 Current Score: 1/1
+
 📚 Learning Outcomes
+
 This project helped in understanding:
 
 Modular Programming
@@ -95,6 +104,7 @@ Basic Project Organization
 Python Module Importing
 
 🎯 Future Enhancements
+
 GUI using Tkinter or PyQt
 Timer for each question
 Randomized questions
