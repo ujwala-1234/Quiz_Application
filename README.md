@@ -67,15 +67,15 @@ Quiz-Application/
 
 1. Clone the Repository
    
-git clone https://github.com/your-username/Quiz-Application.git
+   git clone https://github.com/your-username/Quiz-Application.git
 
 3. Navigate to the Project Folder
    
-cd Quiz-Application
+   cd Quiz-Application
 
 5. Run the Application
 
-python main.py
+   python main.py
 
 📋 Menu Options
 
@@ -152,4 +152,5 @@ Sangireddy Ujwala
 GitHub: https://github.com/ujwala-1234
 
 ⭐ Support
-If you found this project useful, please consider giving it a ⭐ Star on GitHub to support the project.
+
+   If you found this project useful, please consider giving it a ⭐ Star on GitHub to support the project.
