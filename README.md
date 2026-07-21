@@ -9,6 +9,7 @@ A Python-based Quiz Application developed to demonstrate core Python programming
 📊 View Percentage
 💾 Save Results to a Text File
 ❌ Exit Application
+
 🛠️ Technologies Used
 Python 3
 Functions
@@ -19,6 +20,7 @@ Loops
 Conditional Statements
 File Handling
 Exception Handling
+
 📂 Project Structure
 Quiz-Application/
 │
@@ -32,6 +34,7 @@ Quiz-Application/
 ├── save_result.py         # Saves results to result.txt
 ├── result.txt             # Stores quiz results
 └── README.md              # Project documentation
+
 🚀 How to Run
 1. Clone the Repository
 git clone https://github.com/your-username/Quiz-Application.git
@@ -39,6 +42,7 @@ git clone https://github.com/your-username/Quiz-Application.git
 cd Quiz-Application
 3. Run the Application
 python main.py
+
 📋 Menu Options
 ========== QUIZ APPLICATION ==========
 
@@ -89,6 +93,7 @@ File Handling
 Exception Handling
 Basic Project Organization
 Python Module Importing
+
 🎯 Future Enhancements
 GUI using Tkinter or PyQt
 Timer for each question
@@ -99,9 +104,11 @@ User login system
 Leaderboard
 Colorful terminal interface
 Question categories
+
 👩‍💻 Author
 Sangireddy Ujwala
 
 GitHub: https://github.com/ujwala-1234
+
 ⭐ Support
 If you found this project useful, please consider giving it a ⭐ Star on GitHub to support the project.
